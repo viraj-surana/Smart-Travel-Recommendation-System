@@ -1,0 +1,8 @@
+pandas
+numpy
+requests
+nltk
+imbalanced-learn(imblearn)
+scikit-learn(sklearn)
+xgboost
+pickle
